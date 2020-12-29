@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+httpss://github.com/benisadewa/Kontenbot"
+    "url": "git+httpss://github.com/L0S3/Kontenbot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "httpss://github.com/benisadewa/Kontenbot/issues"
+    "url": "httpss://github.com/L0S3/Kontenbot/issues"
   },
-  "homepage": "httpss://github.com/benisadewa/Kontenbot#readme"
+  "homepage": "httpss://github.com/L0S3/Kontenbot#readme"
 }
