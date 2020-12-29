@@ -19,7 +19,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > git clone https://github.com/L0S3/Kontenbot
 > cd Kontenbot
   npm i -g cweb && npm i -g ytdl
-  npm i && nom i got
+  npm i && npm i got
 > bash install.sh
 > node index.js
 ```
